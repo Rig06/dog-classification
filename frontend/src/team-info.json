@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Orion Culbertson",
+      "img": "../team_photos/orionSelfie.png",
+      "about":
+        "Hey! I'm Orion  I'm a senior at San Francisco State University. I love art, dogs, hikes, programming, and lots of other things. \nI love German Shepherds, but all dogs are good dogs.\nI am the Front End Lead for this project, and my goals are to get comfy in this area as well as learn a lot about the other parts of the project."
+  
+  },
+  {
+    "name": "Miguel Galvan",
+    "img": "/team_photos/miguel.png",
+    "about":
+      "Hey ya'll! Excited to combine two things that interest me: dogs and machine learning!\nI'm a senior at SFSU with knowledge of Java, C++, Python, MATLAB, JavaScript, CSS, and HTML.\nMy favorite dogs are beagles, they have the best barks!"
+  },
+  {
+    "name": "Grayson Dew",
+    "img": "/team_photos/grayson.png",
+    "about": "My name is Grayson Dew, a senior at SFSU. I transferred from Leeward Community College after serving 6 years in the Navy as a linguist. I have experience in C++, C#, C, Java, and some Javascript, and I'm currently learning Python, Swift, and Typescript. After graduation, I plan to explore various career opportunities. I also enjoy participating in escape rooms."
+  },
+  {
+     "name": "Rigo Perez",
+    "img": "/team_photos/rigpa.png",
+    "about": "I'm a senior at SFSU pursuing a BS in CS. Before that, I completed a certificate in The Humanities and an Associate Degree for Transfer in CS at Foothill College. My studies have included Operating Systems, Computer Architecture, Web Development, and Embedded Systems. I have programming experience in C, C++, Java, and JavaScript, and I'm currently learning Python and TypeScript."
+  },
+  {
+  "name": "Kristopher Phillips",
+  "img": "/team_photos/krisP.png",
+  "about": "Hi! I'm Kris P, a computer science student at SFSU. I love dogs and machine learning. My favorite breed is the West Highland Terrier. I have experience with C++, Java, and JavaScript. Currently, I'm studying machine learning using Python. I hope this site will be a fun and educational tool for everyone!"
+  }
+  ]
